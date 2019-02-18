@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1550453914437.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4239803993",
+    "id" : "223406DF",
+    "lastKnownWriteTime" : 1550453926,
+    "last_content_update" : 1550453926186,
+    "path" : "~/Desktop/NewPackage/man/hello.Rd",
+    "project_path" : "man/hello.Rd",
+    "properties" : {
+        "cursorPosition" : "10,7",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}
